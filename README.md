@@ -5,6 +5,9 @@
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) [Nigel Ritfeld](https://twitter.com/itsnigelritfeld)
 🌐 [Portfolio](https://nigelritfeld.nl/)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigelritfeld&layout=compact)](https://github.com/nigelritfeld)
+
 <!--
 **nigelritfeld/nigelritfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
