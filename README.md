@@ -1,11 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/50368040/189518083-76aaa225-537a-4f67-950b-539b0a6a6156.jpeg)
 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Nigel Ritfeld](https://linkedin.com/in/nigelritfeld)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) [Nigel Ritfeld](https://twitter.com/itsnigelritfeld)
-🌐 [Portfolio](https://nigelritfeld.nl/)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigelritfeld&layout=compact)](https://github.com/nigelritfeld)
 
 <!--
