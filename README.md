@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/50368040/189518083-76aaa225-537a-4f67-950b-539b0a6a6156.jpeg)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigelritfeld&layout=compact)](https://github.com/nigelritfeld)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigelritfeld&layout=compact)](https://github.com/nigelritfeld) -->
 
 <!--
 **nigelritfeld/nigelritfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
